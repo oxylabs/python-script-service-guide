@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+pypiwin32==223
+pywin32==304
+pywin32-ctypes==0.2.0
+requests==2.28.1
